@@ -1,3 +1,4 @@
+"use strict";
 function countProps(obj) {
   const arrOfValues = Object.values(obj);
   for (let values of arrOfValues) {
